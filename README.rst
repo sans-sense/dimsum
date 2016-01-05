@@ -5,7 +5,7 @@ A non connectionist way for ML (pipe dream)
 
 idea
 -------------
-Uses a simple rule based engine, but rules are associated with confidence and rearranged based on the feedback loop from processed data. Reflects more of my ignorance of topics and languages than anything bright.
+Uses a simple logic engine, but rules are associated with confidence and rearranged based on the feedback loop from processed data. Reflects more of my ignorance of topics and languages than anything bright.
 
 Inspired from prolog, NLP and everything else that I hardly understand.
 

@@ -21,6 +21,9 @@ setup(
     long_description=long_description,
     packages=find_packages('.'),
     install_requires = [
+        'pygments>=2.0.2',
+        'PyDispatcher>=2.0.5',
+        'enum34'
     ],
     entry_points={
         'console_scripts': [

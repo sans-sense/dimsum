@@ -1,1 +1,3 @@
-
+"""
+auto install entry point
+"""
